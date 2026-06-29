@@ -1,0 +1,19 @@
+{
+  "start_date": "2023-01-12",
+  "end_date": "2025-12-21",
+  "records": 720,
+  "total_apprehended": 67337.0,
+  "total_transferred": 92641.0,
+  "total_discharged": 124853.0,
+  "avg_cbp_custody": 171.49444444444444,
+  "avg_hhs_care": 6061.275,
+  "avg_transfer_eff": 0.6910176523134812,
+  "avg_discharge_eff": 0.023737002796523007,
+  "avg_pipeline_throughput": 2.5032469178723566,
+  "net_hhs_backlog_total": -32212.0,
+  "net_system_pressure_total": -57516.0,
+  "transfer_threshold_q25": 0.5,
+  "discharge_threshold_q25": 0.00861602574588943,
+  "worst_14d_backlog_end": "2024-05-02",
+  "worst_14d_backlog": 1100.0
+}
